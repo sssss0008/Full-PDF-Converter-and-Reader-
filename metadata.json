@@ -1,0 +1,6 @@
+{
+  "name": "PDF Reader and Editor",
+  "description": "Offline, zero-cost, enterprise-grade PDF reader, editor, annotator, and document workstation for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

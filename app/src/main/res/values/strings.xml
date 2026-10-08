@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PDF Reader and Editor</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_reader">Reader</string>
+    <string name="nav_page_editor">Organize</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_forms">Sign &amp; Forms</string>
+
+    <string name="tab_recent">Recent</string>
+    <string name="tab_starred">Starred</string>
+    <string name="tab_all">All Files</string>
+    <string name="tab_vault">Secure Safe</string>
+
+    <string name="search_hint">Search documents, text, keywords…</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="new_pdf">Create PDF</string>
+    <string name="no_documents">No PDF documents found</string>
+    <string name="no_documents_desc">Import files from storage or create sample documents to begin reading and editing.</string>
+
+    <string name="tool_images_to_pdf">Images to PDF</string>
+    <string name="tool_scanner">Document Scanner</string>
+    <string name="tool_pdf_to_images">PDF to Images</string>
+    <string name="tool_text_to_pdf">Text to PDF</string>
+    <string name="tool_merge">Merge Documents</string>
+    <string name="tool_split">Split Document</string>
+    <string name="tool_compress">Compress File</string>
+    <string name="tool_ocr">On-Device OCR</string>
+    <string name="tool_watermark">Watermark</string>
+    <string name="tool_encrypt">Password Protect</string>
+    <string name="tool_metadata">Edit Metadata</string>
+    <string name="tool_web_to_pdf">Webpage to PDF</string>
+
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_title_1">Ultra-Fast Reading &amp; Markup</string>
+    <string name="onboarding_body_1">View massive documents with zero lag. Highlight, draw, add sticky notes, and read comfortably with true OLED dark mode.</string>
+    <string name="onboarding_title_2">Complete Page &amp; Document Control</string>
+    <string name="onboarding_body_2">Merge, split, extract, rotate, and reorder pages effortlessly right from your device\'s local storage.</string>
+    <string name="onboarding_title_3">100% Offline, Secure &amp; Private</string>
+    <string name="onboarding_body_3">Zero cloud uploads. Password-protect files, redact sensitive data, and run on-device OCR without spending a cent.</string>
+</resources>
